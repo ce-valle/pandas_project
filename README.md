@@ -46,7 +46,8 @@ En la fase final de análisis de datos hemos creado diferentes tipos de gráfica
 
 
 ## CONCLUSIÓN:
-En una primera visualización, hemos visto que la hipótesis no se cumplía, sin embargo, al profundizar más en los datos y entender mejor la naturaleza de los mismos, hemos podido ver que la hipótesis era correcta.
+En una primera visualización, vemos que la hipótesis principal del proyecto no se cumple, sin embargo, al profundizar más en los datos y entender mejor la naturaleza de los mismos, hemos podido ver que la hipótesis era correcta.
+
 Para más info: [Análisis](https://github.com/ce-valle/pandas_project/blob/main/analysis.ipynb)
 
 
