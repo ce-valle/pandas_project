@@ -3,24 +3,29 @@
 <a href="https://www.gifsanimados.org/cat-tiburones-516.htm"><img src="https://www.gifsanimados.org/data/media/516/tiburon-imagen-animada-0011.gif" border="0" alt="tiburon-imagen-animada-0011" /></a>
 
 
-
 ## INTRODUCCIÓN:
 Para la realización de este proyecto hemos usado una base de datos de ataque de tiburones:
 [Global Shark Attacks](https://www.kaggle.com/teajay/global-shark-attacks) 
 
 Además hemos puesto en práctica diferentes métodos de Pandas y visualización de datos.
-   
-   
+     
 
 ## OBJETIVO:
 El objetivo del proyecto es utilizar diferentes técnicas de exploración, limpieza y análisis de datos. Con todo esto, y una vez desarrollada una hipótesis, podemos llegar a conclusiones basadas en datos sólidos, de una forma fiable.
 
-### HIPÓTESIS:
-La primera hipótesis que manejamos, es que durante los meses de verano hay más ataques de tiburones.
-Después, desarrollamos las hipótesis de que cada año hay más ataques y que USA es el país con más ataques de todos los que manejamos.
 
+## HIPÓTESIS:
+### HIPÓTESIS 1:
+La primera hipótesis que manejamos, es que durante los meses de verano hay más ataques de tiburones ya que la presencia humana en su habitat es mayor.
 
 <img src= "Images/tib_ver2.jpg">
+
+
+### HIPÓTESIS 2:
+Después, desarrollamos las hipótesis de que cada año hay más ataques y que USA es el país con más ataques de todos los que manejamos.
+
+### HIPÓTESIS 3:
+Por último, creemos que el número de ataques ha ido subiendo a lo largo de los años. Para analizar esto hemos usado los datos desde el año 1900 hasta el 2018.
 
 
 ## ESTRUCTURA:
@@ -39,9 +44,11 @@ Para la limpieza de datos y creación de subsets con los que trabajar nuestras h
 
 En la fase final de análisis de datos hemos creado diferentes tipos de gráficas para defender las hipótesis que estábamos manejando.
 
+
 ## CONCLUSIÓN:
 En una primera visualización, hemos visto que la hipótesis no se cumplía, sin embargo, al profundizar más en los datos y entender mejor la naturaleza de los mismos, hemos podido ver que la hipótesis era correcta.
 Para más info: [Análisis](https://github.com/ce-valle/pandas_project/blob/main/analysis.ipynb)
+
 
 ## LIBRERÍAS:
 * [Pandas](https://pandas.pydata.org/)
